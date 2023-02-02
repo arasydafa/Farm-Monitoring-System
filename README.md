@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the source code for the Farm Monitoring System project. The system is designed to remotely monitor environmental conditions and the health of crops in a farm through an interactive and user-friendly web interface.
+This repository contains the source code for the Farm Monitoring System project. The system is designed to remotely monitor environmental conditions and the health of chicken in a farm through an interactive and user-friendly web interface.
 
 ## Technologies Used
 
